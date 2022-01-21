@@ -1,0 +1,27 @@
+.registration{
+  margin-left: 480px;
+  margin-top: 80px;
+  border: 1px solid gray;
+  height: 330px;
+}
+
+.registration-buttons{
+  margin-left: 120px;
+  margin-top: 120px;
+}
+
+.login{
+  margin-left: 480px;
+  margin-top: 80px;
+  border: 1px solid gray;
+  height: 200px;
+}
+
+.login-buttons{
+  margin-left: 120px;
+  margin-top: 50px;
+}
+
+.title{
+  text-align: center;
+}
